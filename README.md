@@ -4,3 +4,5 @@
 
 * Git is improving my bash skills
 * It's very helpful to code from different computers, as my PC doesn't have some feature my school computer has.
+
+### Instructorc is a collaborator on this project
